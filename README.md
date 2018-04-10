@@ -10,7 +10,7 @@ containerd is an industry-standard container runtime with an emphasis on simplic
 
 containerd is designed to be embedded into a larger system, rather than being used directly by developers or end-users.
 
-![architecture](design/architecture.png)
+![architecture](https://raw.githubusercontent.com/containerd/containerd/master/design/architecture.png)
 
 ## Getting Started
 
