@@ -1,4 +1,4 @@
-![banner](/docs/images/containerd-dark.png?raw=true)
+![banner](https://raw.githubusercontent.com/containerd/containerd/master/docs/images/containerd-dark.png)
 
 [![GoDoc](https://godoc.org/github.com/containerd/containerd?status.svg)](https://godoc.org/github.com/containerd/containerd)
 [![Build Status](https://travis-ci.org/containerd/containerd.svg?branch=master)](https://travis-ci.org/containerd/containerd)
